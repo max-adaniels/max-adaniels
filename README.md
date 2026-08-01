@@ -51,12 +51,6 @@
 
 <hr>
 
-### GitHub Analytics
-
-![Stats](./profile/stats.svg)
-
-<hr>
-
 ### Contribution Graph
 
 <p align="center">
