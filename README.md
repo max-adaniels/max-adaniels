@@ -53,14 +53,7 @@
 
 ### GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=max-adaniels&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=max-adaniels&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max-adaniels&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</p>
+![Stats](./profile/stats.svg)
 
 <hr>
 
