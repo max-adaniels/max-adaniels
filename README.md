@@ -44,5 +44,5 @@ A high-performance backend application designed for efficient telemetry data ing
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/max-daniels-934231320/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/max-daniels-934231320/)
 - **Email:** [maxadaniels@icloud.com](mailto:maxadaniels@icloud.com)
